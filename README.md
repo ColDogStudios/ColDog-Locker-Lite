@@ -112,7 +112,7 @@ See the [open issues](https://github.com/ColDogStudios/ColDog-Locker-Lite/issues
 <!-- CONTACT -->
 ## Contact
 
-Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coldogstudios.business+Contact@gmail.com
+Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - coldogstudios.business@gmail.com
 
 [![@ColDog5044][twitter-shield]][twitter-url]
 [![Collin-Laney][linkedin-shield]][linkedin-url]
@@ -138,7 +138,7 @@ Collin Laney (ColDog5044) - [@ColDog5044](https://twitter.com/ColDog5044) - cold
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/collin-laney/
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:coldogstudios.business+GitHubContact@gmail.com
+[gmail-url]: mailto:coldogstudios.business@gmail.com
 
 [WindowsTerminal-shield]:https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white
 [WindowsTerminal-url]:https://github.com/microsoft/terminal
